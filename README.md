@@ -18,9 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 I’m looking to collaborate on interesting projects and contribute to open-source communities. If you have any exciting opportunities or projects in mind, feel free to reach out!
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/arya-gupta) | [Portfolio](https://aryagupta01.github.io/Portfolio-Website/)
-## 🌐 Portfolio
 
-Check out my portfolio to see some of my projects and learn more about me: [Portfolio](https://aryagupta01.github.io/Portfolio-Website/)
 
 ## 🤝 Connect with Me
 
